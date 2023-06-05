@@ -22,3 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=houssemeddineweslati&show_icons=true&locale=en" alt="houssemeddineweslati" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=houssemeddineweslati&" alt="houssemeddineweslati" /></p>
+# [Machine Learning Project: chronic kidney disease Prediction ](https://github.com/HoussemEddineWeslati/chronic-kidney-disease-Prediction-using-Machine-Learning)
+
+
+
