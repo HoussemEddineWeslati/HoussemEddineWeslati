@@ -35,4 +35,10 @@ Regarding the second objective, bioactivity prediction, I employed various machi
 <h2 align="left">Project 3 :</h2>
 <h3 align="left"><a href="https://github.com/HoussemEddineWeslati/NLP_Food_order_ChatBot">NLP Project: FoodChatBot Conversational Ordering System</a></h3>
 This FoodChatBot project is a conversational ordering system built using FastAPI and Dialogflow, designed to provide a seamless and interactive experience for customers to place their food orders. This application leverages the power of natural language processing and integrates with Dialogflow to understand user requests and respond appropriately. With the ability to handle complex interactions, the FoodChatBot allows users to add, remove, and track items in their orders, complete the order process, and even inquire about the status of their orders. The system ensures a user-friendly experience by enabling users to initiate a new order and clearing previous orders through intuitive conversations. With a user-friendly interface and efficient backend integration, FoodChatBot streamlines the food ordering process and enhances customer engagement.
+<br></br>
+<h2 align="left">Project 4 :</h2>
+<h3 align="left"><a href="https://github.com/HoussemEddineWeslati/End-To-End-Cricket-Data-Analytics-Project">End-To-End-Cricket-Data-Analytics-Project</a></h3>
+This Cricket Data Analytics Project leverages web scraping techniques to gather cricket data from various online sources. Meticulous preprocessing and transformation are achieved using Jupyter Notebook and Power Query, ensuring data readiness for analysis. Employing DAX data modeling and the power of Power BI, an interactive dashboard is created, presenting cricket statistics. This facilitates comprehensive player analysis and historical trend exploration. Dive into the world of cricket analytics and join in unraveling the game's insights.
+
+
 
