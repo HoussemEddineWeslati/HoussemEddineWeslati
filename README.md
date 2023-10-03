@@ -20,7 +20,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=houssemeddineweslati&show_icons=true&locale=en&layout=compact" alt="houssemeddineweslati" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=houssemeddineweslati&show_icons=true&locale=en" alt="houssemeddineweslati" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HoussemEddineWeslati)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HoussemEddineWeslati)](https://git.io/streak-stats)
 <h2 align="left">Project 1 :</h2>
 <h3 align="left"><a href="https://github.com/HoussemEddineWeslati/chronic-kidney-disease-Prediction-using-Machine-Learning">Machine Learning Project: chronic kidney disease Prediction</a></h3>
