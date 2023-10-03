@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on **a Project Risk management Recommendation System Using NLP**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoussemEddineWeslati)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HoussemEddineWeslati)](https://git.io/streak-stats)
 
 - 🌱 I’m currently learning **DevOps**
 
