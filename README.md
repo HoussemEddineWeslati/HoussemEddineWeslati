@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **houssemeddine.weslati@esprit.tn**
-[![GitHub Streak](https://streak-stats.demolab.com?user=HoussemEddineWeslati)](https://git.io/streak-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/houssemeddineweslati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/houssemeddineweslati/" height="30" width="40" /></a>
@@ -21,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=houssemeddineweslati&show_icons=true&locale=en" alt="houssemeddineweslati" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HoussemEddineWeslati&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=HoussemEddineWeslati)](https://git.io/streak-stats)
 
 <h2 align="left">Project 1 :</h2>
 <h3 align="left"><a href="https://github.com/HoussemEddineWeslati/chronic-kidney-disease-Prediction-using-Machine-Learning">Machine Learning Project: chronic kidney disease Prediction</a></h3>
