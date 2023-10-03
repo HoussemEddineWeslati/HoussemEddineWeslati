@@ -37,6 +37,8 @@ This FoodChatBot project is a conversational ordering system built using FastAPI
 <h2 align="left">Project 4 :</h2>
 <h3 align="left"><a href="https://github.com/HoussemEddineWeslati/End-To-End-Cricket-Data-Analytics-Project">End-To-End-Cricket-Data-Analytics-Project</a></h3>
 This Cricket Data Analytics Project leverages web scraping techniques to gather cricket data from various online sources. Meticulous preprocessing and transformation are achieved using Jupyter Notebook and Power Query, ensuring data readiness for analysis. Employing DAX data modeling and the power of Power BI, an interactive dashboard is created, presenting cricket statistics. This facilitates comprehensive player analysis and historical trend exploration. Dive into the world of cricket analytics and join in unraveling the game's insights.
-
+<h2 align="left">Project 5 :</h2>
+<h3 align="left"><a href="https://github.com/HoussemEddineWeslati/OpenAI-Function-Calling">OpenAI-Function-Calling</a></h3>
+This project is a Q&A system powered by OpenAI's GPT-3 and integrated with a MySQL database. It offers a user-friendly interface for querying student data, such as marks and fees. Users input questions, and the system provides context-aware responses, making it a valuable tool for educational institutions and data-driven applications.
 
 
