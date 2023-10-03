@@ -20,7 +20,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=houssemeddineweslati&show_icons=true&locale=en&layout=compact" alt="houssemeddineweslati" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=houssemeddineweslati&show_icons=true&locale=en" alt="houssemeddineweslati" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HoussemEddineWeslati)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HoussemEddineWeslati&theme=dark)](https://git.io/streak-stats)
 <h2 align="left">Project 1 :</h2>
 <h3 align="left"><a href="https://github.com/HoussemEddineWeslati/chronic-kidney-disease-Prediction-using-Machine-Learning">Machine Learning Project: chronic kidney disease Prediction</a></h3>
 In this project, my aim was to develop effective tools for predicting the occurrence of chronic kidney disease using machine learning techniques. The approach I followed involved several steps. Firstly, I addressed the non-uniform distribution of instances in the two classes by applying class balancing techniques. Next, I conducted feature ranking and analysis to identify the most informative features. Finally, I trained and evaluated multiple machine learning models, including feature extraction, standardization, AdaBoost, recursive feature elimination, and grid search. These techniques were employed to enhance the predictive accuracy and efficiency of the models.
