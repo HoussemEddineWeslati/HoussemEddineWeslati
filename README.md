@@ -20,25 +20,28 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=houssemeddineweslati&show_icons=true&locale=en" alt="houssemeddineweslati" /></p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HoussemEddineWeslati" alt="GitHub Streak" /></a>
+
 <h2 align="left">Project 1 :</h2>
-<h3 align="left"><a href="https://github.com/HoussemEddineWeslati/chronic-kidney-disease-Prediction-using-Machine-Learning">Machine Learning Project: chronic kidney disease Prediction</a></h3>
-In this project, my aim was to develop effective tools for predicting the occurrence of chronic kidney disease using machine learning techniques. The approach I followed involved several steps. Firstly, I addressed the non-uniform distribution of instances in the two classes by applying class balancing techniques. Next, I conducted feature ranking and analysis to identify the most informative features. Finally, I trained and evaluated multiple machine learning models, including feature extraction, standardization, AdaBoost, recursive feature elimination, and grid search. These techniques were employed to enhance the predictive accuracy and efficiency of the models.
-<h2 align="left">Project 2 :</h2>
 <h3 align="left"><a href="https://github.com/HoussemEddineWeslati/Molecule-Design-Data-Science-Project">Streamlit application: Molecule Generation and bioavctivity Prediction   </a></h3>
 I have selected three chembl datasets filtered by the standard_type "IC50" for three diseases: Breast Cancer, Inflammatory Bowel Disease, and Alzheimer's. The data preparation phase involves importing the data, performing data cleaning, and conducting feature engineering.
 <br></br>
 In the modeling phase, there are two objectives: molecule generation and bioactivity prediction. For the first objective, which is molecule generation, I experimented with two deep learning algorithms, namely VAE and MolGann. After evaluating their performance, I decided to proceed with VAE and applied it to all three datasets.
 <br></br>
 Regarding the second objective, bioactivity prediction, I employed various machine learning algorithms to predict the PIC50 value and Bioactivity class. I saved the best performing model for each dataset to utilize it for predictions when deploying the application using Streamlit.
+<h2 align="left">Project 2 :</h2>
+<h3 align="left"><a href="https://github.com/HoussemEddineWeslati/End-To-End-Cricket-Data-Analytics-Project">End-To-End-Cricket-Data-Analytics-Project</a></h3>
+This Cricket Data Analytics Project leverages web scraping techniques to gather cricket data from various online sources. Meticulous preprocessing and transformation are achieved using Jupyter Notebook and Power Query, ensuring data readiness for analysis. Employing DAX data modeling and the power of Power BI, an interactive dashboard is created, presenting cricket statistics. This facilitates comprehensive player analysis and historical trend exploration. Dive into the world of cricket analytics and join in unraveling the game's insights.
 <h2 align="left">Project 3 :</h2>
 <h3 align="left"><a href="https://github.com/HoussemEddineWeslati/NLP_Food_order_ChatBot">NLP Project: FoodChatBot Conversational Ordering System</a></h3>
 This FoodChatBot project is a conversational ordering system built using FastAPI and Dialogflow, designed to provide a seamless and interactive experience for customers to place their food orders. This application leverages the power of natural language processing and integrates with Dialogflow to understand user requests and respond appropriately. With the ability to handle complex interactions, the FoodChatBot allows users to add, remove, and track items in their orders, complete the order process, and even inquire about the status of their orders. The system ensures a user-friendly experience by enabling users to initiate a new order and clearing previous orders through intuitive conversations. With a user-friendly interface and efficient backend integration, FoodChatBot streamlines the food ordering process and enhances customer engagement.
 <br></br>
 <h2 align="left">Project 4 :</h2>
-<h3 align="left"><a href="https://github.com/HoussemEddineWeslati/End-To-End-Cricket-Data-Analytics-Project">End-To-End-Cricket-Data-Analytics-Project</a></h3>
-This Cricket Data Analytics Project leverages web scraping techniques to gather cricket data from various online sources. Meticulous preprocessing and transformation are achieved using Jupyter Notebook and Power Query, ensuring data readiness for analysis. Employing DAX data modeling and the power of Power BI, an interactive dashboard is created, presenting cricket statistics. This facilitates comprehensive player analysis and historical trend exploration. Dive into the world of cricket analytics and join in unraveling the game's insights.
-<h2 align="left">Project 5 :</h2>
 <h3 align="left"><a href="https://github.com/HoussemEddineWeslati/OpenAI-Function-Calling">OpenAI-Function-Calling</a></h3>
 This project is a Q&A system powered by OpenAI's GPT-3 and integrated with a MySQL database. It offers a user-friendly interface for querying student data, such as marks and fees. Users input questions, and the system provides context-aware responses, making it a valuable tool for educational institutions and data-driven applications.
-
+<h2 align="left">Project 5 :</h2>
+<h3 align="left"><a href="https://github.com/HoussemEddineWeslati/potato-disease-classification-Deployment-To-GCP">">Potato Disease Classification With Deployment To GCP</a></h3>
+In this project, my aim was to develop effective tools for predicting the occurrence of chronic kidney disease using machine learning techniques. The approach I followed involved several steps. Firstly, I addressed the non-uniform distribution of instances in the two classes by applying class balancing techniques. Next, I conducted feature ranking and analysis to identify the most informative features. Finally, I trained and evaluated multiple machine learning models, including feature extraction, standardization, AdaBoost, recursive feature elimination, and grid search. These techniques were employed to enhance the predictive accuracy and efficiency of the models.
+<h2 align="left">Project 6 :</h2>
+<h3 align="left"><a href="https://github.com/HoussemEddineWeslati/chronic-kidney-disease-Prediction-using-Machine-Learning">Machine Learning Project: chronic kidney disease Prediction</a></h3>
+This project leverages a Convolutional Neural Network (CNN) architecture and utilizes the TensorFlow ImageDataGenerator API for data preprocessing. In addition, I implemented the TensorFlow Lite model for optimization. The backend is built using FastAPI, TensorFlow Serving, and Docker, facilitating efficient deployment. The entire solution is hosted on Google Cloud Platform, providing accessible disease classification for potato farmers
 
