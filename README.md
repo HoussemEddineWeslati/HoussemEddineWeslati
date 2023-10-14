@@ -39,7 +39,7 @@ This Cricket Data Analytics Project leverages web scraping techniques to gather 
 **Details:**
 - Data Collection and SQL Queries: Data was initially collected and SQL queries were used for in-depth data exploration and understanding.
 - ETL Process and Data Enrichment: The data underwent an ETL (Extract, Transform, Load) process to ensure its readiness for analysis. Two additional columns were added to the data using SQL, enhancing its quality and utility.
-- Visualization and Dashboard Creation: Tableau was used to create various visualizations, including charts and graphs, for presenting the data. Two comprehensive dashboards, "Revenue Analysis" and "Profit Analysis," were developed to provide a holistic view of the data.
+- Visualization and Dashboard Creation: Tableau was used to create various visualizations, including charts and graphs, for presenting the data. Two comprehensive dashboards, "Revenue Analysis" and "Profit Analysis," were developed to provide a holistic view of the data.<br>
 **Skills Acquired:**
 - Proficiency in SQL for data querying and exploration.
 - Knowledge of ETL processes, which are critical for data preparation.
