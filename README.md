@@ -31,6 +31,7 @@ The project involved the selection of three chembl datasets filtered by "IC50" f
 - Data Preparation: Importing, cleaning, and feature engineering.
 - Modeling: Molecule generation with VAE, bioactivity prediction with various ML algorithms.
 Results: Best models saved for Streamlit application.<br>
+
 **Skills Acquired:**
 - Data preprocessing and cleaning.
 - Deep learning model evaluation.
@@ -44,6 +45,7 @@ This Cricket Data Analytics Project utilized web scraping techniques for collect
 - Data Collection: Cricket data collected via web scraping.
 - Data Preprocessing: Jupyter Notebook and Power Query for data transformation.
 - Analysis: Interactive Power BI dashboard for cricket statistics.<br>
+
 **Skills Acquired:**
 - Web scraping for data collection.
 - Data preprocessing and transformation.
@@ -73,6 +75,7 @@ The FoodChatBot project is a conversational ordering system built using FastAPI 
 - System Overview: FoodChatBot conversational ordering system.
 - Features: Complex order handling, order tracking, and inquiries.
 - User Experience: Intuitive conversation and efficient backend integration.<br>
+
 **Skills Acquired:**
 - Building conversational AI systems.
 - Integrating with natural language processing services.
@@ -86,6 +89,7 @@ This project is a Q&A system powered by OpenAI's GPT-3 and integrated with a MyS
 **Details:**
 System: Q&A system with OpenAI's GPT-3, integrated with MySQL.
 Functionality: Queries student data and provides context-aware responses.<br>
+
 **Skills Acquired:**
 Integration with OpenAI GPT-3.
 Building user-friendly Q&A systems.
@@ -99,6 +103,7 @@ The project is built upon a Convolutional Neural Network (CNN) architecture and 
 Architecture: Convolutional Neural Network (CNN) using TensorFlow.
 Deployment: Optimization with TensorFlow Lite, deployment on Google Cloud Platform.
 Backend: Powered by FastAPI and TensorFlow Serving, Docker for efficiency.<br>
+
 **Skills Acquired:**
 Building and deploying deep learning models.
 Backend development with FastAPI.
@@ -111,6 +116,7 @@ In this project, the aim was to develop effective tools for predicting the occur
 **Details:**
 Approach: Addressing class imbalance, feature ranking, model training and evaluation.
 Techniques: Feature extraction, standardization, AdaBoost, recursive feature elimination, grid search.<br>
+
 **Skills Acquired:**
 Handling class imbalance in datasets.
 Feature engineering and model selection.
