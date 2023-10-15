@@ -7,6 +7,11 @@
 - 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **houssemeddine.weslati@esprit.tn**
+- <div style="text-align: center;">
+    <a href="#data-science-projects">
+        <img src="your-arrow-image.png" alt="Arrow" width="50" height="50">
+    </a>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/houssemeddineweslati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/houssemeddineweslati/" height="30" width="40" /></a>
