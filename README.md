@@ -7,10 +7,8 @@
 - 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **houssemeddine.weslati@esprit.tn**
-- <div style="text-align: center;">
-    <a href="#data-science-projects">
-        <img src="your-arrow-image.png" alt="Arrow" width="50" height="50">
-    </a>
+<div style="text-align: center; font-size: 24px;">
+    <a href="#data-science-projects">⬇️</a>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
