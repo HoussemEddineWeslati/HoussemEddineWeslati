@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Houssem Eddine Weslti</h1>
 <h3 align="center">A passionate Data Science Student from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXB6cmxtemc5Y2NzNDVjYWo4N2todzg3MzhiMmo5ZnY5cDdhY2htZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9PekRRQ0WlrRVwynAk/giphy.gif">
+<div style="text-align: center; font-size: 24px;">
+    <a href="#data-science-projects">⬇️</a>
+</div>
 - 🔭 I’m currently working on **a Project Risk management Recommendation System Using NLP**
 
 - 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **houssemeddine.weslati@esprit.tn**
-<div style="text-align: center; font-size: 24px;">
-    <a href="#data-science-projects">⬇️</a>
-</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/houssemeddineweslati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/houssemeddineweslati/" height="30" width="40" /></a>
