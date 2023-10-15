@@ -34,6 +34,6 @@
 These data science projects highlight my skills in data preprocessing, machine learning, and model deployment. They include applications for molecule generation, conversational AI, and deep learning. Additionally, a machine learning project focused on predicting disease outcomes demonstrates my expertise in handling data challenges and improving model performance, reflecting my proficiency in data science and application development.
 
 <h1 align="left"><a href="https://github.com/HoussemEddineWeslati/Data-Analysis-Projects">Data Analysis Projects</a></h1>
-
+My data analysis projects showcase my expertise in data preprocessing, data visualization, and analytics. They span various tools and applications, including Excel, Tableau, Power BI, and SQL. These projects demonstrate my ability to manipulate data, create interactive dashboards, and extract valuable insights from complex datasets.
 
 
