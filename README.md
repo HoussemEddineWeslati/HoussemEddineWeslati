@@ -12,7 +12,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/houssemeddineweslati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/houssemeddineweslati/" height="30" width="40" /></a>
 </p>
-<img style="float: right; margin: 10px 50px 0 10px;" alt="Coding" width="20" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXB6cmxtemc5Y2NzNDVjYWo4N2todzg3MzhiMmo5ZnY5cDdhY2htZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9PekRRQ0WlrRVwynAk/giphy.gif">
+<img align="right" style="margin-top: 200px; margin-right: 30px;" alt="Coding" width="20" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXB6cmxtemc5Y2NzNDVjYWo4N2todzg3MzhiMmo5ZnY5cDdhY2htZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9PekRRQ0WlrRVwynAk/giphy.gif">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
