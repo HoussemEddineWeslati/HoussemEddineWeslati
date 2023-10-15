@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/houssemeddineweslati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/houssemeddineweslati/" height="30" width="40" /></a>
 </p>
-<img align="right" style="margin-top: 500px; margin-right: 200px;" alt="Coding" width="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXB6cmxtemc5Y2NzNDVjYWo4N2todzg3MzhiMmo5ZnY5cDdhY2htZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9PekRRQ0WlrRVwynAk/giphy.gif">
+<img  style="margin-top: 500px; margin-right: 300px;" alt="Coding" width="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXB6cmxtemc5Y2NzNDVjYWo4N2todzg3MzhiMmo5ZnY5cDdhY2htZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9PekRRQ0WlrRVwynAk/giphy.gif">
 
 
 
