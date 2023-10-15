@@ -22,6 +22,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HoussemEddineWeslati" alt="GitHub Streak" /></a>
 
 <h1 align="left"><a href="https://github.com/HoussemEddineWeslati/Data-Science-Projects">Data Science Projects</h1>
+These data science projects highlight my skills in data preprocessing, machine learning, and model deployment. They include applications for molecule generation, conversational AI, and deep learning. Additionally, a machine learning project focused on predicting disease outcomes demonstrates my expertise in handling data challenges and improving model performance, reflecting my proficiency in data science and application development.
 
 <h1 align="left"><a href="https://github.com/HoussemEddineWeslati/Data-Analysis-Projects">Data Analysis Projects</a></h1>
 
