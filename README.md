@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Houssem Eddine Weslti</h1>
-<h3 align="center">A passionate Data Science Student from Tunisia</h3>
+<h3 align="center">A passionate Data Science engineer from Tunisia</h3>
 
 <a href="#data-science-projects">
   <img align="right" alt="Coding" width="30" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXB6cmxtemc5Y2NzNDVjYWo4N2todzg3MzhiMmo5ZnY5cDdhY2htZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9PekRRQ0WlrRVwynAk/giphy.gif">
@@ -7,9 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
-- 🔭 I’m currently working on **a Project Risk management Recommendation System Using NLP**
-
-- 🌱 I’m currently learning **DevOps**
+- 🔭  I am currently working as a BPM (Business Process Management) Engineer at Punic Insight. **I am seeking a new opportunity in the field of Data Science or Data Engineering** and am eager to apply my skills in modeling, machine learning, and data management within your company.
 
 - 📫 How to reach me **houssemeddine.weslati@esprit.tn**
 
