@@ -6,7 +6,7 @@
 
 
 
-- 🔭  I am currently working as a BPM (Business Process Management) Engineer at Punic Insight. **I am seeking a new opportunity in the field of Data Science or Data Engineering** and am eager to apply my skills in modeling, machine learning, and data management within your company.
+- 🔭  I am currently working as a BPM (Business Process Management) Engineer at Parcus. **I am seeking a new opportunity in the field of Data Science or Data Engineering** and am eager to apply my skills in modeling, machine learning, and data management within your company.
 
 - 📫 How to reach me **houssemeddine.weslati@esprit.tn**
 
