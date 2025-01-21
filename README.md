@@ -8,7 +8,7 @@
 
 - 🔭  I am currently working as a BPM (Business Process Management) Engineer at Parcus. **I am seeking a new opportunity in the field of Data Science or Data Engineering** and am eager to apply my skills in modeling, machine learning, and data management within your company.
 
-- 📫 How to reach me **houssemeddine.weslati@esprit.tn**
+- 📫 How to reach me **houssemeddine.weslati@esprit.tn**/ **houssemeddine.weslati@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
