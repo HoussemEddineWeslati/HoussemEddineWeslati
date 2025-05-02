@@ -4,9 +4,7 @@
   <img align="right" alt="Coding" width="30" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXB6cmxtemc5Y2NzNDVjYWo4N2todzg3MzhiMmo5ZnY5cDdhY2htZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9PekRRQ0WlrRVwynAk/giphy.gif">
 </a>
 
-/***I am seeking a new opportunity in the field of Data Science or Data Engineering** and am eager to apply my skills in modeling, machine learning, and data management within your company*/
-
-- 🔭  I am currently working as an **AI Specialist** at 24 B.E.Y . .
+- 🔭  I am currently working as an **AI Specialist** at 24 B.E.Y 
 
 - 📫 How to reach me **houssemeddine.weslati@esprit.tn**/ **houssemeddine.weslati@gmail.com**
 
