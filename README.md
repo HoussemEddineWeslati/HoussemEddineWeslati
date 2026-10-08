@@ -1,33 +1,125 @@
-<h1 align="center">Hi 👋, I'm Houssem Eddine Weslti</h1>
-<h3 align="center">A passionate Data Science engineer from Tunisia</h3>
-<a href="#data-science-projects">
-  <img align="right" alt="Coding" width="30" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXB6cmxtemc5Y2NzNDVjYWo4N2todzg3MzhiMmo5ZnY5cDdhY2htZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9PekRRQ0WlrRVwynAk/giphy.gif">
-</a>
-
-- 🔭  I am currently working as an **AI Specialist** at 24 B.E.Y 
-
-- 📫 How to reach me **houssemeddine.weslati@esprit.tn**/ **houssemeddine.weslati@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/houssemeddineweslati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/houssemeddineweslati/" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/banner.svg" alt="Houssem Eddine Weslati, Full Stack Engineer: React, NestJS, TypeScript, AI chatbots and agents" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/houssemeddineweslati"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:houssemeddine.weslati@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- When the portfolio is live, uncomment:
+  <a href="https://houssemweslati.com"><img src="https://img.shields.io/badge/Portfolio-34D399?style=for-the-badge&logo=vercel&logoColor=0B1220" alt="Portfolio" /></a>
+  -->
+</p>
 
+<br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" alt="fastapi" width="40" height="40"/></a>
-<a href="https://cloud.google.com/dialogflow" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/dialogflow-logo-534FF34238-seeklogo.com.png" alt="dialogflow" width="40" height="40"/> </a> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=houssemeddineweslati&show_icons=true&locale=en&layout=compact" alt="houssemeddineweslati" /></p>
+### About
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=houssemeddineweslati&show_icons=true&locale=en" alt="houssemeddineweslati" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HoussemEddineWeslati" alt="GitHub Streak" /></a>
+I build web applications end to end: interface design, front end, API, database, AI features and deployment.
+Two years of professional experience, currently the developer of a multi-tenant SaaS running in production.
+I came to full stack from data engineering and AI, so I am comfortable from the database to the screen.
 
-<h1 align="left"><a href="https://github.com/HoussemEddineWeslati/Data-Science-Projects">Data Science Projects</h1>
-These data science projects highlight my skills in data preprocessing, machine learning, and model deployment. They include applications for molecule generation, conversational AI, and deep learning. Additionally, a machine learning project focused on predicting disease outcomes demonstrates my expertise in handling data challenges and improving model performance, reflecting my proficiency in data science and application development.
+`Tunis, Tunisia` &nbsp; `Remote-friendly` &nbsp; `English · French · Arabic`
 
-<h1 align="left"><a href="https://github.com/HoussemEddineWeslati/Data-Analysis-Projects">Data Analysis Projects</a></h1>
-My data analysis projects showcase my expertise in data preprocessing, data visualization, and analytics. They span various tools and applications, including Excel, Tableau, Power BI, and SQL. These projects demonstrate my ability to manipulate data, create interactive dashboards, and extract valuable insights from complex datasets.
+<br />
 
+### What I do
 
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Full stack web</h4>
+      React and Next.js front ends, NestJS and Node.js APIs, PostgreSQL. Typed from the database to the screen, with automated tests.
+    </td>
+    <td width="33%" valign="top">
+      <h4>AI features</h4>
+      Chatbots and agents that do real work: retrieval (RAG), function calling, voice, and tools that act inside the product.
+    </td>
+    <td width="33%" valign="top">
+      <h4>Data and delivery</h4>
+      Data migrations and pipelines in Python and SQL. Docker, a reverse proxy and tagged releases on a server I run myself.
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite&theme=dark" alt="React, Next.js, TypeScript, Tailwind CSS, Vite" height="44" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,py,fastapi&theme=dark" alt="NestJS, Node.js, Python, FastAPI" height="44" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,azure,linux,git,jest&theme=dark" alt="PostgreSQL, MongoDB, Docker, Azure, Linux, Git, Jest" height="44" />
+</p>
+
+`OpenAI` &nbsp; `Mistral` &nbsp; `RAG` &nbsp; `Function calling` &nbsp; `ElevenLabs` &nbsp; `Databricks` &nbsp; `Playwright` &nbsp; `WebSockets`
+
+<br />
+
+### Selected work
+
+Most of my work lives in private repositories owned by the companies I work with. This is what it covers, without the code.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Testudo</h4>
+      <sub>MULTI-TENANT SAAS · IN PRODUCTION</sub>
+      <p>ISO 9001 quality management platform, built from the first screen to production: documents, audits, non-conformities, action plans, risks and indicators. Granular access control, real-time updates, PDF and Excel reporting in French and English.</p>
+      <code>React 19</code> <code>NestJS</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>WebSockets</code> <code>Docker</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>QualiBot</h4>
+      <sub>AI ASSISTANT · RAG</sub>
+      <p>The AI assistant inside Testudo, built with a colleague. It answers from ISO 9001 knowledge and the company's own documents, opens documents and navigates the app for the user.</p>
+      <code>Python</code> <code>FastAPI</code> <code>Mistral</code> <code>RAG</code> <code>CopilotKit</code> <code>Langfuse</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Voice chatbot for accessibility</h4>
+      <sub>AI CHATBOT · VOICE</sub>
+      <p>Voice-enabled chatbot on an e-ticketing website, so that people with disabilities can find information and buy tickets by speaking.</p>
+      <code>Python</code> <code>OpenAI</code> <code>ElevenLabs</code> <code>RAG</code> <code>MongoDB</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Food ordering agent</h4>
+      <sub>AI AGENT · FUNCTION CALLING</sub>
+      <p>An agent that talks with customers, takes their orders and passes them to the restaurants.</p>
+      <code>Python</code> <code>OpenAI</code> <code>Function calling</code> <code>MongoDB</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Salesforce data migration</h4>
+      <sub>DATA ENGINEERING · UK CLIENT · REMOTE</sub>
+      <p>Migration of opportunities, quotes and pricing data, with validation and reconciliation after each run.</p>
+      <code>Python</code> <code>SOQL</code> <code>Azure Data Factory</code> <code>Databricks SQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Data migration platform</h4>
+      <sub>WEB APP · ETL / ELT</sub>
+      <p>Platform that generates and schedules data integration jobs across five database engines, with a SQL workspace and data lineage.</p>
+      <code>React</code> <code>Python</code> <code>SQL</code>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HoussemEddineWeslati&hide_border=true&border_radius=12&background=0B1220&ring=34D399&fire=38BDF8&currStreakLabel=34D399&currStreakNum=F8FAFC&sideNums=F8FAFC&sideLabels=CBD5E1&dates=94A3B8&stroke=1E293B" alt="Total contributions, current streak and longest streak" width="70%" />
+</p>
+<p align="center">
+  <sub>Includes work in private repositories.</sub>
+</p>
+
+<br />
+
+<p align="center">
+  <sub>Open to remote work. The fastest way to reach me is <a href="https://www.linkedin.com/in/houssemeddineweslati">LinkedIn</a> or <a href="mailto:houssemeddine.weslati@gmail.com">email</a>.</sub>
+</p>
