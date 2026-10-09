@@ -65,7 +65,7 @@ Most of my work lives in private repositories owned by the companies I work with
     <td width="50%" valign="top">
       <h4>Testudo</h4>
       <sub>MULTI-TENANT SAAS · IN PRODUCTION</sub>
-      <p>ISO 9001 quality management platform, built alone from the first screen to production: 12 modules, multi-tenant with isolated data per customer. Role-based access down to the record, real-time updates, PDF and Excel reporting in French and English.</p>
+      <p>ISO 9001 quality management platform, built as sole developer from the first screen to production: 12 modules, multi-tenant with a subdomain and isolated data per customer. Role-based access down to the record, real-time updates, PDF and Excel reporting in French and English.</p>
       <code>React 19</code> <code>NestJS</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>WebSockets</code> <code>Docker</code>
     </td>
     <td width="50%" valign="top">
@@ -99,7 +99,7 @@ Most of my work lives in private repositories owned by the companies I work with
     <td width="50%" valign="top">
       <h4>Data migration platform</h4>
       <sub>WEB APP · ETL / ELT</sub>
-      <p>Platform that generates, runs and schedules ETL and ELT jobs across five database engines, with a SQL workspace and data lineage. Built alone as my end-of-studies project.</p>
+      <p>Platform that generates, runs and schedules ETL and ELT jobs across five database engines, with a SQL workspace and data lineage. Built independently as my end-of-studies project.</p>
       <code>React</code> <code>Python</code> <code>SQL</code>
     </td>
   </tr>
