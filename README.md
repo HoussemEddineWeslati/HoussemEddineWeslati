@@ -5,9 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/houssemeddineweslati"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:houssemeddine.weslati@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- When the portfolio is live, uncomment:
   <a href="https://houssemweslati.com"><img src="https://img.shields.io/badge/Portfolio-34D399?style=for-the-badge&logo=vercel&logoColor=0B1220" alt="Portfolio" /></a>
-  -->
 </p>
 
 <br />
@@ -67,41 +65,41 @@ Most of my work lives in private repositories owned by the companies I work with
     <td width="50%" valign="top">
       <h4>Testudo</h4>
       <sub>MULTI-TENANT SAAS · IN PRODUCTION</sub>
-      <p>ISO 9001 quality management platform, built from the first screen to production: documents, audits, non-conformities, action plans, risks and indicators. Granular access control, real-time updates, PDF and Excel reporting in French and English.</p>
+      <p>ISO 9001 quality management platform, built alone from the first screen to production: 12 modules, multi-tenant with isolated data per customer. Role-based access down to the record, real-time updates, PDF and Excel reporting in French and English.</p>
       <code>React 19</code> <code>NestJS</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>WebSockets</code> <code>Docker</code>
     </td>
     <td width="50%" valign="top">
       <h4>QualiBot</h4>
       <sub>AI ASSISTANT · RAG</sub>
-      <p>The AI assistant inside Testudo, built with a colleague. It answers from ISO 9001 knowledge and the company's own documents, opens documents and navigates the app for the user.</p>
-      <code>Python</code> <code>FastAPI</code> <code>Mistral</code> <code>RAG</code> <code>CopilotKit</code> <code>Langfuse</code>
+      <p>The AI assistant inside Testudo, built with a colleague. It answers from ISO 9001 knowledge and the company's own documents, and acts inside the product for the user.</p>
+      <code>Python</code> <code>FastAPI</code> <code>RAG</code> <code>LLM</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Voice chatbot for accessibility</h4>
-      <sub>AI CHATBOT · VOICE</sub>
-      <p>Voice-enabled chatbot on an e-ticketing website, so that people with disabilities can find information and buy tickets by speaking.</p>
+      <h4>Voice assistant for a ticketing site</h4>
+      <sub>AI CHATBOT · VOICE · ACCESSIBILITY</sub>
+      <p>Voice chatbot live on an e-ticketing website, so that people with disabilities can find an event, get answers and buy tickets by speaking, in English and German.</p>
       <code>Python</code> <code>OpenAI</code> <code>ElevenLabs</code> <code>RAG</code> <code>MongoDB</code>
     </td>
     <td width="50%" valign="top">
-      <h4>Food ordering agent</h4>
-      <sub>AI AGENT · FUNCTION CALLING</sub>
-      <p>An agent that talks with customers, takes their orders and passes them to the restaurants.</p>
-      <code>Python</code> <code>OpenAI</code> <code>Function calling</code> <code>MongoDB</code>
+      <h4>Voice agent for food ordering</h4>
+      <sub>VOICE AI AGENT · FUNCTION CALLING</sub>
+      <p>A voice agent that answers the phone for a food ordering app, takes the order in natural conversation and passes it to the restaurant.</p>
+      <code>Python</code> <code>OpenAI</code> <code>ElevenLabs</code> <code>Function calling</code> <code>MongoDB</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>Salesforce data migration</h4>
       <sub>DATA ENGINEERING · UK CLIENT · REMOTE</sub>
-      <p>Migration of opportunities, quotes and pricing data, with validation and reconciliation after each run.</p>
+      <p>Python scripts that move opportunities, quotes and pricing data from a legacy Salesforce org to a new one, run as Azure Data Factory pipelines, with validation and reconciliation after each run.</p>
       <code>Python</code> <code>SOQL</code> <code>Azure Data Factory</code> <code>Databricks SQL</code>
     </td>
     <td width="50%" valign="top">
       <h4>Data migration platform</h4>
       <sub>WEB APP · ETL / ELT</sub>
-      <p>Platform that generates and schedules data integration jobs across five database engines, with a SQL workspace and data lineage.</p>
+      <p>Platform that generates, runs and schedules ETL and ELT jobs across five database engines, with a SQL workspace and data lineage. Built alone as my end-of-studies project.</p>
       <code>React</code> <code>Python</code> <code>SQL</code>
     </td>
   </tr>
@@ -121,5 +119,5 @@ Most of my work lives in private repositories owned by the companies I work with
 <br />
 
 <p align="center">
-  <sub>Open to remote work. The fastest way to reach me is <a href="https://www.linkedin.com/in/houssemeddineweslati">LinkedIn</a> or <a href="mailto:houssemeddine.weslati@gmail.com">email</a>.</sub>
+  <sub>Open to remote work. Case studies on <a href="https://houssemweslati.com">houssemweslati.com</a>. The fastest way to reach me is <a href="https://www.linkedin.com/in/houssemeddineweslati">LinkedIn</a> or <a href="mailto:houssemeddine.weslati@gmail.com">email</a>.</sub>
 </p>
